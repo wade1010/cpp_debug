@@ -1,0 +1,12 @@
+[
+{
+  "directory": "W:/workspace/cpp/practice/cpp_debug/build",
+  "command": "W:\\env\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake_swap.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake_swap.dir\\src\\main.cpp.obj -c W:\\workspace\\cpp\\practice\\cpp_debug\\src\\main.cpp",
+  "file": "W:/workspace/cpp/practice/cpp_debug/src/main.cpp"
+},
+{
+  "directory": "W:/workspace/cpp/practice/cpp_debug/build",
+  "command": "W:\\env\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake_swap.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake_swap.dir\\src\\swap.cpp.obj -c W:\\workspace\\cpp\\practice\\cpp_debug\\src\\swap.cpp",
+  "file": "W:/workspace/cpp/practice/cpp_debug/src/swap.cpp"
+}
+]
